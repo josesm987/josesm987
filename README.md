@@ -26,16 +26,6 @@ Soy un desarrollador al que le apasiona la creación de soluciones que generan i
 ### 🔸 BalTM1
 > Desarrollo de sistemas para la gestion del personal de las plataformas petrolíferas en el mar Bático.
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_title=true&hide_border=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide_border=true&theme=dark)
-
-## 📝 Artículos
-
-- [Título del artículo 1](URL)
-- [Título del artículo 2](URL)
-
 ---
 
 **Gracias por visitar mi perfil!** Si quieres colaborar, no dudes en contactarme. 🚀
