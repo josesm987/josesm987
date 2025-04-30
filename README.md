@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy José
+# 👋 ¡Hola! Me llamo José
 
-Soy un desarrollador al que le apasiona la creación de soluciones que generan impacto. 
+Soy un desarrollador apasionado la creación de soluciones tecnologícas.
 
 ## 🚀 Sobre mí
 
